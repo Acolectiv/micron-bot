@@ -1,0 +1,6 @@
+const config = {
+    bot_token: "",
+    prefix: ""
+};
+
+module.exports = config;
